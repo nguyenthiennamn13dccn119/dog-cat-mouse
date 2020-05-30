@@ -3,8 +3,8 @@ function Men(cu){
 	this.biFuck = false;
 }
 
-module.exports = Cu;
+module.exports = Men;
 
-Cu.prototype.fuck = function(){
+Men.prototype.fuck = function(){
 	this.biFuck = true;
 }

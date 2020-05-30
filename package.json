@@ -1,0 +1,15 @@
+{
+  "name": "1-commit",
+  "version": "1.0.0",
+  "description": "this a project just for demo how to use GIT",
+  "main": "cat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "chart": "^0.1.2"
+  }
+}
